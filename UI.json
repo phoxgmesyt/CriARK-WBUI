@@ -3,9 +3,33 @@
 
   "ButtonTxt1": "INICIO",
   "ButtonTxt2": "REGLAS",
-  "ButtonTxt3": "RATES",
+  "ButtonTxt3": "STATS SERVER",
   "ButtonTxt4": "COMANDOS",
   "ButtonTxt5": "INFO",
+
+  "LinkButtonTxt1": "DISCORD",
+  "LinkButtonTxt2": "PAGINA WEB",
+  "LinkButtonTxt3": "WHATSAPP",
+  "LinkButtonTxt4": "",
+  "LinkButtonTxt5": "",
+
+  "LinkButton1": "https://discord.gg/D6PkSMPuW7",
+  "LinkButton2": "https://www.latinoland.store",
+  "Link1Button3": "https://chat.whatsapp.com/DjEilEoymmRDGNwtTlaovp",
+  "Link2Button3": "",
+  "Link3Button3": "",
+  "Link4Button3": "",
+  "Link1Button4": "",
+  "Link2Button4": "",
+  "Link3Button4": "",
+  "Link4Button4": "",
+  "Link1Button5": "",
+  "Link2Button5": "",
+  "Link3Button5": "",
+  "Link4Button5": "",
+
+  "UseSteamBrowserLink1": false,
+  "UseSteamBrowserLink2": false,
 
   "Tab1Panelcount": 2,
   "Tab2Panelcount": 3,
@@ -39,7 +63,7 @@
   "Tab2Title3": "SANCIONES Y SOPORTE",
   "Tab2Text3": "1 FALTA: Llamada de atencion.\n2 FALTAS: Softban por 24 horas.\n3 FALTAS: Softban por 5 dias.\n4 FALTAS: Baneo permanente.\n\nCualquier duda, reclamo o problema debe atenderse unicamente mediante ticket-admin en Discord.",
 
-  "Tab3Title1": "RATES DEL SERVIDOR",
+  "Tab3Title1": "STATS DEL SERVIDOR",
   "Tab3Text1": "Tameo: x3\nConstruir en cuevas: NO\nNoche: x2\nDia: x0.25\nRecoger estructuras: SI\nRecoleccion: x3\nCrecimiento de bebes: x35\nGuerra entre tribus: NO\nDino farmeo: x2\nMiembros por tribu: 7",
 
   "Tab3Title2": "STATS PERSONAJE",
@@ -48,18 +72,18 @@
   "Tab3Title3": "STATS DINOS DE TRIBU",
   "Tab3Text3": "Salud: x0.7\nPeso: x8\nDaño: x0.7",
 
-  "Tab4Title1": "GENERALES Y TELEPORT",
-  "Tab4Text1": "/lottery - 500 puntos: Compra boleto para la loteria. Premio: 75% de las apuestas.\n/kill - Gratis: Autoelimina tu personaje.\n/nombre <nick> - Gratis: Cambia el nombre.\n/cuerpo - 100 puntos: Recupera mochilas de cuerpos.\n/crystal - 200 puntos: Recoge cristales Gacha.\n/egg1 - 300 puntos: Recoge huevos fertilizados.\n/egg2 - 200 puntos: Recoge huevos caidos.\n/oil - 200 puntos: Recoge petroleo.\n/paste - 200 puntos: Recoge pasta.\n/pearl - 200 puntos: Recoge perlas.\n/poly - 200 puntos: Recoge polimero.\n/poop - 200 puntos: Recoge excremento.\n/pellet - 200 puntos: Recoge pellets de buho.\n/llena - 200 puntos: Rellena cultivos con abono.\n/skipday - Gratis: Vota para pasar a la mañana.\n\nTELEPORT\nTecla R: Abre teletransportes.\ntpto <Zona>: Teleport a obelisco rojo, verde o azul.\n/tpr <nombre>: Solicita teleport a jugador.\n/tpa: Acepta solicitud.\n/addhome <Nombre_Casa>: Guarda Home.\n/removehome <Nombre_Casa>: Elimina Home.\n/home <Nombre_Casa>: Teleport al Home.\n/listhomes: Lista Homes.\n/tplist: Lista teletransportes.",
+  "Tab4Title1": "COMANDOS VARIOS",
+  "Tab4Text1": "/lottery - Compra un boleto para participar de la Loteria. Evento cada hora. Boleto: 500 puntos. Premio: 75% de las apuestas totales.\n/kill - Te auto inmolas. Gratis.\n/nombre <nick> - Cambia el nombre de tu personaje. Gratis.\n/cuerpo - Recupera mochilas de cuerpos en el mapa. 100 puntos.\n/crystal - Fuerza la boveda que miras para recoger cristales Gacha. 200 puntos.\n/egg1 - Recoge huevos fertilizados. 300 puntos.\n/egg2 - Recoge huevos caidos. 200 puntos.\n/oil - Recoge petroleo. 200 puntos.\n/paste - Recoge pasta. 200 puntos.\n/pearl - Recoge perlas. 200 puntos.\n/poly - Recoge polimero. 200 puntos.\n/poop - Recoge excremento. 200 puntos.\n/pellet - Recoge pellets de buho. 200 puntos.\n/llena - Rellena cultivos cercanos con abono. 200 puntos.\n/skipday - Vota para establecer la hora del juego en la mañana. Requiere mas del 50%. Gratis.\n/borra - Reinicia los puntos de tu personaje, pero no tus engramas.\n/demoler - Demuele la estructura a la que dispares con la pistola fabricada.\n/recoge - Recoge la estructura a la que dispares con la pistola fabricada.\n/repara - Repara las estructuras en tu area.\n/transfer - Transfiere un inventario a otro usando la pistola fabricada.\n/engrama - Desbloquea los engramas del mapa hasta tu nivel actual.",
 
   "Tab4Title2": "DINOS Y CRIANZA",
-  "Tab4Text2": "/cb - 100 puntos: Reclama bebes cercanos y los renombra segun sus stats.\n/pod - 25 puntos: Guarda el dino que miras en Cryopod.\n/pods - 50 puntos: Guarda dinos cercanos en Cryopods.\n/pods <nombre o tipo> - 50 puntos: Guarda dinos indicados.\n/track - 25 puntos: Lista dinos libres de la tribu.\n/track <nombre o tipo> - 25 puntos: Muestra coordenadas del dino.\n/stats - Gratis: Muestra stats del dino.\n/rstats - Gratis: Renombra el dino con sus stats.\n/imp - 200 puntos: Impronta al bebe al 100%.\n/rb - 5000 puntos: Convierte al bebe en adulto.",
+  "Tab4Text2": "/cb - Reclama todos los dinos bebes cercanos y los renombra segun sus stats. 100 puntos.\n/pod - Guarda el dino que estas mirando en una Cryopod. 25 puntos.\n/pods - Guarda todos los dinos cercanos en Cryopods. 50 puntos.\n/pods <nombre_dino o tipo_dino> - Guarda los dinos del nombre o tipo indicado. 50 puntos.\n/track - Lista los dinos de tu tribu que estan libres. 25 puntos.\n/track <nombre_dino o tipo_dino> - Muestra las coordenadas del dino seleccionado. 25 puntos.\n/stats - Muestra los stats del dino que estas mirando. Gratis.\n/rstats - Renombra el dino que estas mirando con sus stats. Gratis.\n/cg - Cambia el genero del dino que miras. 9999 puntos. VIP.\n/imp - Impronta al bebe que miras al 100%. 200 puntos.\n/rb - Convierte al bebe que miras en adulto. 5000 puntos.\n/fc - Finaliza la clonacion al instante. 9999 puntos. VIP.\n/huevo - Hace nacer huevos al instante. No funciona en incubadora. 5000 puntos. VIP.\n/mamif - Hace nacer mamiferos al instante. 5000 puntos. VIP.\n/farmea - Con un Argentavis sosteniendo un Doedicurus o Ankylo, farmea automaticamente.",
 
-  "Tab4Title3": "VIP / SHOP / PUNTOS",
-  "Tab4Text3": "/cg - 9999 puntos VIP: Cambia genero del dino.\n/fc - 9999 puntos VIP: Finaliza clonacion al instante.\n/huevo - 5000 puntos VIP: Hace nacer huevos al instante. No funciona en incubadora.\n/mamif - 5000 puntos VIP: Hace nacer mamiferos al instante.\n/shop: Abre la tienda.\n/trade <jugador> <cantidad>: Transfiere puntos a otro jugador.\n/discord - Gratis: Muestra el Discord en el chat global.",
+  "Tab4Title3": "TELEPORT / HOME",
+  "Tab4Text3": "TELEPORT\nTecla R - Abre los teletransportes del mapa.\ntpto <Zona> - Teletransporta a una zona especifica: rojo = Obelisco Rojo, verde = Obelisco Verde, azul = Obelisco Azul.\n/tpr <nombre> - Solicita teletransporte hacia un jugador.\n/tpa - Acepta la solicitud de teletransporte de un jugador.\n\nHOME\n/addhome <Nombre_Casa> - Guarda tu posicion actual como Home. Requiere construir primero 10 estructuras. Maximo: 1 Home.\n/removehome <Nombre_Casa> - Elimina el Home seleccionado.\n/home <Nombre_Casa> - Te teletransporta al Home seleccionado.\n/listhomes - Muestra tus Homes guardados en el chat.\n/tplist - Muestra los teletransportes del mapa.\n\nOTROS\n/shop - Abre la tienda.\n/trade <jugador> <cantidad> - Transfiere puntos a otro jugador.\n/discord - Envia el enlace de Discord al chat global. Gratis.",
 
   "Tab5Title1": "INFORMACION DEL SERVIDOR",
   "Tab5Text1": "Servidor: CriARK\nModalidad: PVE\nMapa: The Island Modeado\nWipe: Sin Wipe\nMiembros por tribu: 7\nAdministrador: YefPlay",
 
   "Tab5Title2": "ENLACES",
-  "Tab5Text2": "Discord:\nhttps://discord.gg/D6PkSMPuW7\n\nPagina web:\nwww.latinoland.store\n\nDonaciones:\nhttps://www.paypal.com/donate/?hosted_button_id=DUERGWFC3MDVS"
+  "Tab5Text2": "Discord:\nhttps://discord.gg/D6PkSMPuW7\n\nPagina web:\nwww.latinoland.store\n\nGrupo WhatsApp:\nhttps://chat.whatsapp.com/DjEilEoymmRDGNwtTlaovp\n\nDonaciones:\nhttps://www.paypal.com/donate/?hosted_button_id=DUERGWFC3MDVS"
 }
