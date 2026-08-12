@@ -42,10 +42,10 @@
   "FontColorTabTitles": "0,200,255",
   "FontColorTabText": "255,255,255",
 
-  "BackgroundTab1": 11,
-  "BackgroundTab2": 13,
-  "BackgroundTab3": 14,
-  "BackgroundTab4": 15,
+  "BackgroundTab1": 13,
+  "BackgroundTab2": 11,
+  "BackgroundTab3": 15,
+  "BackgroundTab4": 14,
   "BackgroundTab5": 12,
 
   "Tab1Title1": "BIENVENIDO A CriARK",
