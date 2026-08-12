@@ -42,11 +42,11 @@
   "FontColorTabTitles": "0,200,255",
   "FontColorTabText": "255,255,255",
 
-  "BackgroundTab1": 12,
+  "BackgroundTab1": 11,
   "BackgroundTab2": 13,
   "BackgroundTab3": 14,
   "BackgroundTab4": 15,
-  "BackgroundTab5": 11,
+  "BackgroundTab5": 12,
 
   "Tab1Title1": "BIENVENIDO A CriARK",
   "Tab1Text1": "Servidor ARK PVE enfocado en una experiencia divertida y equilibrada.\nMapa: The Island Modeado\nModalidad: PVE\nWipe: Sin Wipe\nMiembros por tribu: 7",
