@@ -14,7 +14,7 @@
   "LinkButtonTxt5": "",
 
   "LinkButton1": "https://discord.gg/D6PkSMPuW7",
-  "LinkButton2": "https://www.latinoland.store",
+  "LinkButton2": "https://NA",
   "Link1Button3": "https://chat.whatsapp.com/DjEilEoymmRDGNwtTlaovp",
   "Link2Button3": "",
   "Link3Button3": "",
@@ -52,7 +52,7 @@
   "Tab1Text1": "Servidor ARK PVE enfocado en una experiencia divertida y equilibrada.\nMapa: The Island Modeado\nModalidad: PVE\nWipe: Sin Wipe\nMiembros por tribu: 7",
 
   "Tab1Title2": "COMUNIDAD",
-  "Tab1Text2": "Discord: https://discord.gg/D6PkSMPuW7\nWeb: www.latinoland.store\nAdministrador: YefPlay",
+  "Tab1Text2": "Discord: https://discord.gg/D6PkSMPuW7\nWeb: NA\nAdministrador: YefPlay",
 
   "Tab2Title1": "REGLAS GENERALES",
   "Tab2Text1": "CriARK es un servidor PVE.\n\nNo pedir ayuda, items o dinos al administrador. [1 falta]\n\nRespeta a todos los miembros de la comunidad. Se prohiben comentarios ofensivos, maliciosos o acciones destinadas a generar conflictos. [1 falta]\n\nProhibido aprovechar bugs, dupeo, multicuentas, undermap, errores de configuracion o cualquier metodo que otorgue ventaja injusta. [4 faltas]\n\nNo se permiten nombres de jugador o tribu predeterminados, ofensivos, invisibles o con caracteres especiales. [1 falta]\n\nProhibido realizar inside. El Staff no se hace responsable de las perdidas ocasionadas por un inside. [3 faltas]",
@@ -64,13 +64,13 @@
   "Tab2Text3": "1 FALTA: Llamada de atencion.\n2 FALTAS: Softban por 24 horas.\n3 FALTAS: Softban por 5 dias.\n4 FALTAS: Baneo permanente.\n\nCualquier duda, reclamo o problema debe atenderse unicamente mediante ticket-admin en Discord.",
 
   "Tab3Title1": "STATS DEL SERVIDOR",
-  "Tab3Text1": "Tameo: x3\nConstruir en cuevas: NO\nNoche: x2\nDia: x0.25\nRecoger estructuras: SI\nRecoleccion: x3\nCrecimiento de bebes: x35\nGuerra entre tribus: NO\nDino farmeo: x2\nMiembros por tribu: 7",
+  "Tab3Text1": "Tameo: x3\nFarmeo X2\nConstruir en cuevas: NO\nNoche: x2\nDia: x0.25\nRecoger estructuras: SI\nCrecimiento de bebes: x35\nGuerra entre tribus: si\nDino farmeo: x2\nMiembros por tribu: 4",
 
   "Tab3Title2": "STATS PERSONAJE",
-  "Tab3Text2": "Salud: x3\nTorpor: x2\nOxigeno: x2\nComida: x3\nAgua: x3\nPeso: x8\nDaño: x2\nVelocidad: x2",
+  "Tab3Text2": "Salud: x2\nEstamina X1\nOxígeno X2\nComida X2\nAgua X2\nPeso X5\nDaño X2\nVelocidad X1\nFortaleza X2\nfabricación X2",
 
   "Tab3Title3": "STATS DINOS DE TRIBU",
-  "Tab3Text3": "Salud: x0.7\nPeso: x8\nDaño: x0.7",
+  "Tab3Text3": "Salud: x1\nEstamina X1\nTorpor X1\nOxigeno X1\nComida X1\nPeso X5\nDaño X1\nVelocidad X1",
 
   "Tab4Title1": "COMANDOS VARIOS",
   "Tab4Text1": "/lottery - Compra un boleto para participar de la Loteria. Evento cada hora. Boleto: 500 puntos. Premio: 75% de las apuestas totales.\n/kill - Te auto inmolas. Gratis.\n/nombre <nick> - Cambia el nombre de tu personaje. Gratis.\n/cuerpo - Recupera mochilas de cuerpos en el mapa. 100 puntos.\n/crystal - Fuerza la boveda que miras para recoger cristales Gacha. 200 puntos.\n/egg1 - Recoge huevos fertilizados. 300 puntos.\n/egg2 - Recoge huevos caidos. 200 puntos.\n/oil - Recoge petroleo. 200 puntos.\n/paste - Recoge pasta. 200 puntos.\n/pearl - Recoge perlas. 200 puntos.\n/poly - Recoge polimero. 200 puntos.\n/poop - Recoge excremento. 200 puntos.\n/pellet - Recoge pellets de buho. 200 puntos.\n/llena - Rellena cultivos cercanos con abono. 200 puntos.\n/skipday - Vota para establecer la hora del juego en la mañana. Requiere mas del 50%. Gratis.\n/borra - Reinicia los puntos de tu personaje, pero no tus engramas.\n/demoler - Demuele la estructura a la que dispares con la pistola fabricada.\n/recoge - Recoge la estructura a la que dispares con la pistola fabricada.\n/repara - Repara las estructuras en tu area.\n/transfer - Transfiere un inventario a otro usando la pistola fabricada.\n/engrama - Desbloquea los engramas del mapa hasta tu nivel actual.",
@@ -85,5 +85,5 @@
   "Tab5Text1": "Servidor: CriARK\nModalidad: PVE\nMapa: The Island Modeado\nWipe: Sin Wipe\nMiembros por tribu: 7\nAdministrador: YefPlay",
 
   "Tab5Title2": "ENLACES",
-  "Tab5Text2": "Discord:\nhttps://discord.gg/D6PkSMPuW7\n\nPagina web:\nwww.latinoland.store\n\nGrupo WhatsApp:\nhttps://chat.whatsapp.com/DjEilEoymmRDGNwtTlaovp\n\nDonaciones:\nhttps://www.paypal.com/donate/?hosted_button_id=DUERGWFC3MDVS"
+  "Tab5Text2": "Discord:\nhttps://discord.gg/D6PkSMPuW7\n\nPagina web:\nNA\n\nGrupo WhatsApp:\nhttps://chat.whatsapp.com/DjEilEoymmRDGNwtTlaovp\n\nDonaciones:\nhttps://www.paypal.com/donate/?hosted_button_id=DUERGWFC3MDVS"
 }
