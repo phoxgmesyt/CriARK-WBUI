@@ -82,7 +82,7 @@
   "Tab4Text3": "TELEPORT\nTecla R - Abre los teletransportes del mapa.\ntpto <Zona> - Teletransporta a una zona especifica:\nrojo = Obelisco Rojo.\nverde = Obelisco Verde\nazul = Obelisco Azul\ncasino = Casino del servidor.\n/tpr <nombre> - Solicita teletransporte hacia un jugador.\n/tpa - Acepta la solicitud de teletransporte de un jugador.\n\nHOME\n/addhome <Nombre_Casa> - Guarda tu posicion actual como Home. Requiere construir primero 10 estructuras. Maximo: 1 Home.\n/removehome <Nombre_Casa> - Elimina el Home seleccionado.\n/home <Nombre_Casa> - Te teletransporta al Home seleccionado.\n/listhomes - Muestra tus Homes guardados en el chat.\n/tplist - Muestra los teletransportes del mapa.\n\nOTROS\n/shop - Abre la tienda.\n/trade <jugador> <cantidad> - Transfiere puntos a otro jugador.\n/discord - Envia el enlace de Discord al chat global. Gratis.",
 
   "Tab5Title1": "INFORMACION DEL SERVIDOR",
-  "Tab5Text1": "Servidor: CriARK\nModalidad: PVE\nMapa: The Island Modeado\nWipe: Sin Wipe\nMiembros por tribu: 7\nAdministrador: YefPlay",
+  "Tab5Text1": "Servidor: CriARK\nModalidad: PVE\nMapa: The Island Modeado\nWipe: Sin Wipe\nMiembros por tribu: 4\nAdministrador: YefPlay",
 
   "Tab5Title2": "ENLACES",
   "Tab5Text2": "Discord:\nhttps://discord.gg/D6PkSMPuW7\n\nPagina web:\nNA\n\nGrupo WhatsApp:\nhttps://chat.whatsapp.com/DjEilEoymmRDGNwtTlaovp\n\nDonaciones:\nhttps://www.paypal.com/donate/?hosted_button_id=DUERGWFC3MDVS"
