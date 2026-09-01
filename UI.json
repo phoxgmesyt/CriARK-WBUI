@@ -5,11 +5,13 @@
   "ButtonTxt3": "STATS SERVER",
   "ButtonTxt4": "COMANDOS",
   "ButtonTxt5": "INFO",
+
   "LinkButtonTxt1": "DISCORD",
   "LinkButtonTxt2": "PAGINA WEB",
   "LinkButtonTxt3": "WHATSAPP",
   "LinkButtonTxt4": "DONACIONES",
   "LinkButtonTxt5": "",
+
   "LinkButton1": "https://discord.gg/D6PkSMPuW7",
   "LinkButton2": "https://NA",
   "Link1Button3": "https://chat.whatsapp.com/DjEilEoymmRDGNwtTlaovp",
@@ -24,46 +26,63 @@
   "Link2Button5": "",
   "Link3Button5": "",
   "Link4Button5": "",
+
   "UseSteamBrowserLink1": false,
   "UseSteamBrowserLink2": false,
+
   "Tab1Panelcount": 2,
   "Tab2Panelcount": 3,
   "Tab3Panelcount": 3,
   "Tab4Panelcount": 3,
   "Tab5Panelcount": 2,
+
   "FontColorButtons": "255,255,255",
   "FontColorServerName": "0,200,255",
   "FontColorTabTitles": "0,200,255",
-  "FontColorTabText": "255,255,255",
+  "FontColorTabText": "255,215,0",
+
   "BackgroundTab1": 13,
   "BackgroundTab2": 11,
   "BackgroundTab3": 15,
   "BackgroundTab4": 14,
   "BackgroundTab5": 12,
+
   "Tab1Title1": "BIENVENIDO A CriARK",
   "Tab1Text1": "Servidor ARK PVE enfocado en una experiencia divertida y equilibrada.\nMapa: The Island Modeado\nModalidad: PVE\nWipe: Sin Wipe\nMiembros por tribu: 5",
+
   "Tab1Title2": "COMUNIDAD",
   "Tab1Text2": "Discord: https://discord.gg/D6PkSMPuW7\nWeb: NA\nAdministrador: YefPlay",
+
   "Tab2Title1": "REGLAS GENERALES",
   "Tab2Text1": "CriARK es un servidor PVE.\n\nNo pedir ayuda, items o dinos al administrador. [1 falta]\n\nRespeta a todos los miembros de la comunidad. Se prohiben comentarios ofensivos, maliciosos o acciones destinadas a generar conflictos. [1 falta]\n\nProhibido aprovechar bugs, dupeo, multicuentas, undermap, errores de configuracion o cualquier metodo que otorgue ventaja injusta. [4 faltas]\n\nNo se permiten nombres de jugador o tribu predeterminados, ofensivos, invisibles o con caracteres especiales. [1 falta]\n\nProhibido realizar inside. El Staff no se hace responsable de las perdidas ocasionadas por un inside. [3 faltas]",
+
   "Tab2Title2": "CONSTRUCCION Y PVE",
   "Tab2Text2": "Prohibido construir en o cerca de obeliscos, cuevas de jefes, cuevas con artefactos, notas de exploracion, recursos importantes o zonas que bloqueen el progreso.\n\nCada tribu puede tener una sola base principal. La base debe mantener un tamaño razonable.\n\nNo realizar spam de cimientos, pinchos u otras estructuras fuera de la base.\n\nNo bloquear caminos, recursos o zonas importantes.\n\nProhibido perjudicar intencionalmente bases, dinos o progreso de otros jugadores.\n\nNo llevar dinos salvajes hacia bases ajenas con intencion de causar daños.",
+
   "Tab2Title3": "SANCIONES Y SOPORTE",
   "Tab2Text3": "1 FALTA: Llamada de atencion.\n2 FALTAS: Softban por 24 horas.\n3 FALTAS: Softban por 5 dias.\n4 FALTAS: Baneo permanente.\n\nCualquier duda, reclamo o problema debe atenderse unicamente mediante ticket-admin en Discord.",
+
   "Tab3Title1": "STATS DEL SERVIDOR",
   "Tab3Text1": "Tameo: x3\nFarmeo X5\nConstruir en cuevas: NO\nNoche: x2\nDia: x0.25\nRecoger estructuras: SI\nCrecimiento de bebes: x35\nGuerra entre tribus: si\nDino farmeo: x2\nMiembros por tribu: 5",
+
   "Tab3Title2": "STATS PERSONAJE",
   "Tab3Text2": "Salud: x2\nEstamina X1\nOxígeno X2\nComida X3\nAgua X3\nPeso X25\nDaño X2\nVelocidad X1\nFortaleza X2\nfabricación X2",
+
   "Tab3Title3": "STATS DINOS DE TRIBU",
   "Tab3Text3": "Salud: x1\nEstamina X1\nTorpor X1\nOxigeno X1\nComida X1\nPeso X25\nDaño X1\nVelocidad X1",
+
   "Tab4Title1": "COMANDOS VARIOS",
   "Tab4Text1": "/lottery - Compra un boleto para participar de la Loteria. Evento cada hora. Boleto: 500 puntos. Premio: 75% de las apuestas totales.\n/kill - Te auto inmolas. Gratis.\n/nombre <nick> - Cambia el nombre de tu personaje. Gratis.\n/cuerpo - Recupera mochilas de cuerpos en el mapa. 100 puntos.\n/crystal - Fuerza la boveda que miras para recoger cristales Gacha. 200 puntos.\n/egg1 - Recoge huevos fertilizados. 300 puntos.\n/egg2 - Recoge huevos caidos. 200 puntos.\n/oil - Recoge petroleo. 200 puntos.\n/paste - Recoge pasta. 200 puntos.\n/pearl - Recoge perlas. 200 puntos.\n/poly - Recoge polimero. 200 puntos.\n/poop - Recoge excremento. 200 puntos.\n/pellet - Recoge pellets de buho. 200 puntos.\n/llena - Rellena cultivos cercanos con abono. 200 puntos.\n/skipday - Vota para establecer la hora del juego en la mañana. Requiere mas del 50%. Gratis.\n/borra - Reinicia los puntos de tu personaje, pero no tus engramas.\n/demoler - Demuele la estructura a la que dispares con la pistola fabricada.\n/recoge - Recoge la estructura a la que dispares con la pistola fabricada.\n/repara - Repara las estructuras en tu area.\n/transfer - Transfiere un inventario a otro usando la pistola fabricada.\n/engrama - Desbloquea los engramas del mapa hasta tu nivel actual.",
+
   "Tab4Title2": "DINOS Y CRIANZA - RANGOS",
   "Tab4Text2": "DEFAULT\n/cb - 100 puntos - Reclama los bebes dentro del area.\n/pods - 50 puntos - Mete varios dinos cercanos en cryopods.\n/pod - 25 puntos - Mete inmediatamente en cryopod el dino que estas mirando.\n/imp - 500 puntos - Aplica el imprint al dino.\n\nVIP1\n/feed - 250 puntos - Alimenta los dinos dentro del area.\n/dkill - 50 puntos - Mata el dino que estas mirando.\n/matedinos - 1000 puntos - Activa el apareamiento de los dinos dentro del area.\n/renamedinos - 1000 puntos - Cambia el nombre de los dinos dentro del area.\n/wake - 100 puntos - Despierta el dino que estas mirando.\n\nVIP2\n/fc - 9999 puntos - Completa inmediatamente la clonacion de un dino en la camara de clonacion.\n/huevo - 9999 puntos - Completa la incubacion/eclosion del huevo fertilizado.\n/nomatedinos - 1000 puntos - Desactiva el apareamiento de los dinos dentro del area.\n/rb - 5000 puntos - Hace crecer inmediatamente al bebe.\n\nVIP3\n/cg - 50000 puntos - Cambia el genero del dino que estas mirando.\n/imprintchange - 5000 puntos - Cambia el propietario del imprint del dino.\n/matenow - 9999 puntos - Completa inmediatamente el proceso de apareamiento del dino.\n/dmindwipe - 9999 puntos - Resetea los niveles/puntos asignados del dino.\n/turretmode - 1000 puntos - Activa o desactiva el modo torreta de los dinos del area.\n/neuter - 250 puntos - Esteriliza/castra el dino que estas mirando.\n/neuterdinos - 2500 puntos - Esteriliza/castra los dinos dentro del area.\n/mamif - 9999 puntos - Hace que el dino gestante tenga inmediatamente a su bebe.\n\nOTROS COMANDOS DE DINOS\n/track - Lista los dinos de tu tribu que estan libres. 25 puntos.\n/track <nombre_dino o tipo_dino> - Muestra las coordenadas del dino seleccionado. 25 puntos.\n/stats - Muestra los stats del dino que estas mirando. Gratis.\n/rstats - Renombra el dino que estas mirando con sus stats. Gratis.\n/farmea - Con un Argentavis sosteniendo un Doedicurus o Ankylo, farmea automaticamente.",
+
   "Tab4Title3": "TELEPORT / HOME",
   "Tab4Text3": "TELEPORT\nTecla R - Abre los teletransportes del mapa.\ntpto <Zona> - Teletransporta a una zona especifica:\nrojo = Obelisco Rojo.\nverde = Obelisco Verde\nazul = Obelisco Azul\ncasino = Casino del servidor.\n/tpr <nombre> - Solicita teletransporte hacia un jugador.\n/tpa - Acepta la solicitud de teletransporte de un jugador.\n\nHOME\n/addhome <Nombre_Casa> - Guarda tu posicion actual como Home. Requiere construir primero 10 estructuras. Maximo: 1 Home.\n/removehome <Nombre_Casa> - Elimina el Home seleccionado.\n/home <Nombre_Casa> - Te teletransporta al Home seleccionado.\n/listhomes - Muestra tus Homes guardados en el chat.\n/tplist - Muestra los teletransportes del mapa.\n\nOTROS\n/shop - Abre la tienda.\n/trade <jugador> <cantidad> - Transfiere puntos a otro jugador.\n/discord - Envia el enlace de Discord al chat global. Gratis.",
+
   "Tab5Title1": "INFORMACION DEL SERVIDOR",
   "Tab5Text1": "Servidor: CriARK\nModalidad: PVE\nMapa: The Island Modeado\nWipe: Sin Wipe\nMiembros por tribu: 5\nAdministrador: YefPlay",
+
   "Tab5Title2": "ENLACES",
   "Tab5Text2": "Discord:\nhttps://discord.gg/D6PkSMPuW7\n\nPagina web:\nNA\n\nGrupo WhatsApp:\nhttps://chat.whatsapp.com/DjEilEoymmRDGNwtTlaovp\n\nDonaciones:\nhttps://www.paypal.com/donate/?hosted_button_id=DUERGWFC3MDVS"
 }
